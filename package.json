@@ -1,0 +1,29 @@
+{
+  "name": "motortrendondemand-unofficial-api",
+  "version": "1.0.0",
+  "description": "Unofficial Motortrend Ondemand API to search shows and get episode information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mdpauley <mdpauley@gmail.com> (mdpauley.com)",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-cookies-secure": "^2.0.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.7",
+    "zero-pad": "^1.1.0"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdpauley/motortrend-ondemand-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdpauley/motortrend-ondemand-api/issues"
+  },
+  "homepage": "https://github.com/mdpauley/motortrend-ondemand-api#readme"
+}
